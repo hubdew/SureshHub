@@ -1,0 +1,9 @@
+sysctl -n machdep.cpu.brand_string
+dotnet new -i1 specflow.Templets.Dotnet
+ dotnet new -i specflow.Templets.Dotnet
+dotnet new -i SpecFlow.Templates.DotNet
+dotnet new specflowproject
+ dotnet new -i Sspecflow.Templets.Dotnet
+mkdir identityserver4
+cd identityserver4
+dotnet new is4aspid

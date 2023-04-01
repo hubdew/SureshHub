@@ -1,0 +1,2 @@
+sysctl -n machdep.cpu.brand_string
+dotnet new -i1 specflow.Templets.Dotnet
